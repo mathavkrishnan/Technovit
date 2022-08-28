@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109672755069",
+    "project_id": "technovit-a1869",
+    "storage_bucket": "technovit-a1869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109672755069:android:d7e5285881460e3870a614",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109672755069-rsb1qq6c86noteilmpebp5qtgg82hosf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQ4dgl7_Gz80o2bOCc-gnsPDVoRWMRtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109672755069-rsb1qq6c86noteilmpebp5qtgg82hosf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
